@@ -84,7 +84,6 @@
                                 <select class="form-select" name="" id="" required>
                                     <option value="carro">Carro</option>
                                     <option value="moto">Moto</option>
-                                    <option value="helicoptero">Helicoptero</option>
                                 </select>
                             </div>
                             <div class="mb-3">
@@ -140,7 +139,7 @@
 
                                                      <!-- veiculo disponivel -->
                                                       <!-- name e oq voce ta selecionando se fosse meses ia colocar meses /  required = obrigatorio -->
-                                                      <input type="number" name="dias" class="form-control" value="1" min="1" required>
+                                                      <input type="number" name="dias" class="form-control days-input" value="1" min="1" required>
                                                       <button class="btn btn-primary" name="alugar" type="submit">Alugar</button>
                                                   </div>
                                             </form>  
