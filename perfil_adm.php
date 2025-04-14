@@ -145,7 +145,10 @@
                                     </td>
                                     <td>
                                         <div class="action-wrapper">
-                                            
+                                            <form action="post" class="btn-group-actions">
+                                                <!-- botao deletar (sempre fica disponivel para o 'adm/Admin') -->
+                                                 <button class="btn btn-danger btn-sm" type="submit" name="deletar">Deletar</button>
+                                            </form>  
                                         </div>
                                     </td>
                                 </tr>
