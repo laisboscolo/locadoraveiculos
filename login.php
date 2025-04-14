@@ -108,8 +108,8 @@
         </div>
 
         <!-- Formulário para adicionar novos veiculos -->
-        
-            <div class="col-md-6">
+        <div class="container d-flex justify-content-center ">
+            <div class="col-md-8">
                 <div class="card h-100">
                     <div class="card-header">
                         <h4 class="mb-0">
@@ -135,6 +135,7 @@
                 </div>
             </div>
         </div>
+    </div>
     <!-- agora sim sou eu -->
     <!-- tabela de veiculos cadastrados -->
     <div class="row mt-4">
