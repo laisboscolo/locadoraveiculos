@@ -12,7 +12,8 @@ Este repositório utiliza o framework Bootstrap para o desenvolvimento do front-
 
 ### Página do usuário :
 
-![image](https://github.com/user-attachments/assets/4388ba0c-d4a1-496f-b4f0-0c5cad393b35)
+![image](https://github.com/user-attachments/assets/ca35c221-acb3-4ef3-9a6e-a09bb33cd58a)
+
 
 
 
