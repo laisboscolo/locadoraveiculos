@@ -123,7 +123,7 @@
                                     <td>Carro</td>
                                     <td>Uno</td>
                                     <td>21LA1PV</td>
-                                    <td><span class="badge bg-success">Disponivel ✅</span>
+                                    <td><span class="badge bg-warning">Alugado ❌</span>
                                     </td>
                                     <td>
                                         <div class="action-wrapper">
